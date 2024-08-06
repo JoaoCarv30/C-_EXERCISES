@@ -1,0 +1,15 @@
+D:\DEV\C#\EX-ARRAY\bin\Debug\net8.0\EXARRAY.exe
+D:\DEV\C#\EX-ARRAY\bin\Debug\net8.0\EXARRAY.deps.json
+D:\DEV\C#\EX-ARRAY\bin\Debug\net8.0\EXARRAY.runtimeconfig.json
+D:\DEV\C#\EX-ARRAY\bin\Debug\net8.0\EXARRAY.dll
+D:\DEV\C#\EX-ARRAY\bin\Debug\net8.0\EXARRAY.pdb
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.AssemblyInfoInputs.cache
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.AssemblyInfo.cs
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.csproj.CoreCompileInputs.cache
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.sourcelink.json
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.dll
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\refint\EXARRAY.dll
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.pdb
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\EXARRAY.genruntimeconfig.cache
+D:\DEV\C#\EX-ARRAY\obj\Debug\net8.0\ref\EXARRAY.dll
