@@ -1,0 +1,14 @@
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfoInputs.cache
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.AssemblyInfo.cs
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.csproj.CoreCompileInputs.cache
+/home/joao/Área de trabalho/Challenge/bin/Debug/net8.0/Challenge
+/home/joao/Área de trabalho/Challenge/bin/Debug/net8.0/Challenge.deps.json
+/home/joao/Área de trabalho/Challenge/bin/Debug/net8.0/Challenge.runtimeconfig.json
+/home/joao/Área de trabalho/Challenge/bin/Debug/net8.0/Challenge.dll
+/home/joao/Área de trabalho/Challenge/bin/Debug/net8.0/Challenge.pdb
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.dll
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/refint/Challenge.dll
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.pdb
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/Challenge.genruntimeconfig.cache
+/home/joao/Área de trabalho/Challenge/obj/Debug/net8.0/ref/Challenge.dll
