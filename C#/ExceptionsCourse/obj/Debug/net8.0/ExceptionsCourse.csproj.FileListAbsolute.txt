@@ -1,0 +1,15 @@
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.AssemblyInfoInputs.cache
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.AssemblyInfo.cs
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.csproj.CoreCompileInputs.cache
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.sourcelink.json
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/bin/Debug/net8.0/ExceptionsCourse
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/bin/Debug/net8.0/ExceptionsCourse.deps.json
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/bin/Debug/net8.0/ExceptionsCourse.runtimeconfig.json
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/bin/Debug/net8.0/ExceptionsCourse.dll
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/bin/Debug/net8.0/ExceptionsCourse.pdb
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.dll
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/refint/ExceptionsCourse.dll
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.pdb
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ExceptionsCourse.genruntimeconfig.cache
+/home/joao/Área de trabalho/C-_EXERCISES/C#/ExceptionsCourse/obj/Debug/net8.0/ref/ExceptionsCourse.dll
